@@ -24,15 +24,3 @@ Compilar os arquivos:
 
 ```bash
 javac src/*.java test/*.java
-
-Executar a classe principal:
-
-bash
-Copiar
-Editar
-java Main
-
-Observações
-Sem uso de Scanner
-
-Dados definidos diretamente no código
