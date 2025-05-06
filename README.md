@@ -23,4 +23,4 @@ Cada pessoa pode ter uma ou mais funções por obra.
 Compilar os arquivos:
 
 ```bash
-javac src/*.java test/*.java
+javac src/*.java
